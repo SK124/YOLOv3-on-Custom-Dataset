@@ -1,5 +1,5 @@
 # YOLOv3-on-Custom-Dataset
-Please check out the ipynb notebook for complete idea.
+Please check out the ipynb notebook for complete work,its well documented.
 
 
 TLDR
